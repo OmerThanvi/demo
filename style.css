@@ -1,0 +1,55 @@
+header
+{
+    text-align: center;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+nav
+{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 20px;
+}
+body
+{
+    background-color: rgb(138, 197, 216);
+}
+main
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: stretch;
+}
+
+article
+{
+    display: flex;
+    flex-direction: column;
+
+}
+
+img
+{
+    width: 33%;
+    margin-left: 33%;
+    margin-right: 33%;
+}
+
+h2
+{
+    text-align: center;
+}
+
+footer
+{
+    text-align: center;
+    font-weight: bold;
+}
+
+p
+{
+    text-align: center;
+}
